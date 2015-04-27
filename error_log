@@ -1,0 +1,13 @@
+[03-Jan-2015 13:54:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/smaa9287/public_html/system/application/controllers/admin_galeri.php on line 171
+[03-Jan-2015 13:55:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/smaa9287/public_html/system/application/controllers/admin_galeri.php on line 171
+[03-Jan-2015 21:28:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/smaa9287/public_html/system/application/controllers/admin_berita.php on line 254
+[03-Jan-2015 21:31:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_IF in /home/smaa9287/public_html/system/application/controllers/admin_berita.php on line 272
+[03-Jan-2015 22:37:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/smaa9287/public_html/system/application/controllers/admin_berita.php on line 234
+[13-Jan-2015 07:14:32 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:14:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:16:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:16:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:16:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:16:53 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:16:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/smaa9287/public_html/system/application/views/info.php on line 7
+[13-Jan-2015 07:19:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/smaa9287/public_html/system/application/models/model_admin.php on line 114

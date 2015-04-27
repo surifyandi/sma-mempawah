@@ -1,0 +1,149 @@
+body{
+	font-family: arial;
+	background:#f1f1f1;
+}
+
+/* ============================= header ================================= */
+#header{
+	height:300px;
+	background:#ab0000;
+}
+
+.subheader{
+	width:960px;
+	margin: auto;
+	height: 150px;
+	/*background-image:url("../images/bg.png");*/
+	background-repeat:no-repeat;
+	background-position:right;
+}
+
+.image_header{
+	float: left;
+	height:120px;
+	padding: 12px;
+}
+
+.text_header{
+	float: left;
+	color: #fff;
+	font-size: 20px;
+	padding: 30px 30px;
+	text-transform: uppercase;
+	/* lowercase -> untuk huruf kecil semua*/
+}
+/* ============================= header ================================= */
+
+
+
+/* ============================= menu ================================= */
+#nav{
+	height:40px;
+	margin-top: -140px;
+}
+
+#nav ul {
+	list-style: none;
+	width: 960px;
+	background: #222;
+	margin: auto;
+	height:40px;
+	border-radius:5px 5px 0 0;
+}
+
+#nav ul li{
+	position: relative;
+	float: left;
+	padding-top: 11px;
+}
+
+#nav ul li a{
+	color:#fff;
+	text-decoration: none;
+	padding: 12px 20px;
+}
+
+/* apabila pakai hover, pakai padding top pada #nav ul li
+atur padding di #nav ul li a
+*/
+#nav ul li a:hover{
+	background: #fff;
+	color: #222;
+	border-bottom: 5px solid #ff0000; /*garis bawah*/
+}
+
+/* ============================= menu ================================= */
+
+
+/* ============================= berita ================================= */
+#section{
+	width: 960px;
+	margin: auto;
+	background: #fff;
+	min-height: 200px;
+	overflow: auto;
+}
+
+#left-bar{
+	width: 690px;
+	min-height: 100px;
+	float: left;
+}
+
+#right-bar{
+	float: left;
+	width: 270px;
+	min-height: 100px;
+	background: #d4d4d4;	
+}
+
+#latest-news{
+	width: 675px;
+	height: 110px;
+	float: left;
+	margin-top: 7px;
+	margin-left: 7px;
+	padding: 5px 0px 10px 0px;
+	border-bottom: 1px solid #d4d4d4;
+}
+
+.judul-lt-news{
+	color: #b00000;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+.isi-lt-news{
+	margin: 3px 0px 0px 0px;
+	font-size: 11pt;
+}
+
+.button-lt-readmore{
+	font-size: 10pt;
+	background: #222;
+	position: relative;
+	top: 7px;
+	padding: 5px 7px;
+	color: #fff;
+	text-decoration: none;	
+}
+
+.jdl-lt-news{
+	margin: 0px 10px;
+	font-size: 18pt;
+	padding: 5px 0px;
+	border-bottom: 1px solid #444;
+	color: #444;
+	font-weight: normal;
+}
+.tgl-lt-news{
+	font-size: 8pt;
+	color: #bcbcbc;
+}
+.images{
+	width:100px;
+	background:#333; 
+	margin:5px 7px; 
+	float:left;
+}
+/* ============================= berita ================================= */
